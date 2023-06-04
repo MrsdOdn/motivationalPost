@@ -1,0 +1,23 @@
+h1{
+    color: goldenrod;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+body{
+    background-color: black;
+}
+
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: aqua;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+
+.mot-img{
+    width: 100%;
+    border: 5px solid white;
+}
